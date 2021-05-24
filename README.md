@@ -1,1 +1,1 @@
-# galictic-car
+# project-38-INFINTE-RUNNER-GAME
